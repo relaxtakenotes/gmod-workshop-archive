@@ -1,5 +1,5 @@
 # gmod-workshop-archive
- Lets you archive metadata of workshop items (Intended for GMOD)
+ Lets you archive metadata and preview images of workshop items (Intended for GMOD)
 
 This will most likely work for other games utilizing the steam workshop.
 
